@@ -64,7 +64,6 @@ content:
 
 
       - layout: left
-        border: weak
         title: San Jose State University
         caption: 2022
         sub_title: BS Electrical Engineering/Physics
@@ -111,9 +110,9 @@ content:
 
       - layout: left
         border: weak
-        title: 300k Feet Rocket 
+        title: 200k Feet Rocket 
         description: | # this will include new lines to allow paragraphs
-          This was a project where I built a solid fuel rocket that would cruise to an altitude of 300k feet.
+          This was a project where I built a solid fuel rocket that would cruise to an altitude of 200k feet (simulation was done with OpenRocket). 
 
       - layout: left
         border: weak
@@ -136,7 +135,6 @@ content:
           This was a school project where we interfaced with IR Sensors on a robot using ARM (Cortex-M).
          
       - layout: left
-        border: weak 
         title: non-pipelined 8 bit CPU 
         description: | # this will include new lines to allow paragraphs
           This was a school project designed a non-pipelined 8 bit CPU in Verilog using Vivado by Xilinx
@@ -196,7 +194,6 @@ content:
           I used Machine Learning and TCAD to study various properties of MOS devices in an effort to simplify TCAD processes.  
          
       - layout: left
-        border: weak    
         title: Spectre/Meltdown CPU cache timing bugs
         # link_text: Project Website
         link: https://deepai.org/publication/meltdown
