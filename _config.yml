@@ -135,18 +135,18 @@ content:
 
         
         
-  - title: Education # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of California, Berkeley
+        title: Startup
         caption: 2022 -
-        sub_title: Project Management
+        sub_title: A startup that is currently in development.
 
 
-        title: San Jose State University
+        title: Coherent Inc.
         caption: 2022
-        sub_title: BS Electrical Engineering/Physics
+        sub_title: Software Engineer
         
         
   - title: Education # Title for the section
