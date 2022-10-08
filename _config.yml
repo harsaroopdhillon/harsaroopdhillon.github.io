@@ -120,7 +120,7 @@ content:
 
       - layout: left
         border: weak    
-        title: Study of schottky diode at cryogenic temperatures
+        title: Study of MOSFET at cryogenic temperatures
         # link_text: Project Website
         description: |
           I implemented the Phillips model in Python to determine the effects of I vs V at very low temperatures.
