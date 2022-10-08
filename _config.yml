@@ -133,6 +133,20 @@ content:
         description: Published one of the first codes exploiting this bug for the Windows platform. 
         
 
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: startup
+        sub_title: Software Engineer
+        description: | # this will include new lines to allow paragraphs
+        : A startup that is currently in development. 
+
+        title: Coherent Inc.
+        sub_title: Software Engineer
+        
+        
+        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
