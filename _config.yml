@@ -142,7 +142,7 @@ content:
         title: startup
         sub_title: Software Engineer
         description: | # this will include new lines to allow paragraphs
-        A startup that is currently in development. 
+        : A startup that is currently in development. 
         
         title: Coherent Inc.
         sub_title: Software Engineer
